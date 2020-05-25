@@ -1,0 +1,8 @@
+cd ~
+killall java
+killall code
+killall code
+killall bash
+killall gnome-system-monitor
+killall qemu-system-x86_64
+exit

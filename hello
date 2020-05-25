@@ -1,0 +1,5 @@
+cd ~
+spotify & disown
+/opt/google/chrome/chrome & disown
+/opt/Android/android-studio/bin/studio.sh & disown
+/opt/Android/android-sdk/emulator/qemu/linux-x86_64 -netdelay none -netspeed full -avd Pixel_2_API_28 & disown
