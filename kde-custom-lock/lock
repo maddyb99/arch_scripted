@@ -1,0 +1,5 @@
+#!/bin/bash
+# source /opt/anaconda3/etc/profile.d/conda.sh
+# conda activate CopyPasta
+python /home/maddyb/Documents/PROJECTS/Scripts/kde-custom-lock/main.py
+loginctl lock-session
